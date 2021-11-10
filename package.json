@@ -1,0 +1,23 @@
+{
+  "name": "typescript-tricks",
+  "version": "1.0.0",
+  "description": "typescript 类型转换示例",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/postor/typescript-tricks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/postor/typescript-tricks/issues"
+  },
+  "homepage": "https://github.com/postor/typescript-tricks#readme",
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
+}
