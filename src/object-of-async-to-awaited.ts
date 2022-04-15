@@ -22,3 +22,5 @@ let rtn = awaitAll({
 
 
 let t = rtn.math.add(1, 1)
+
+export {}
